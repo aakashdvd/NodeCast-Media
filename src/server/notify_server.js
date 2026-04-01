@@ -1,8 +1,8 @@
 // @ts-check
 //
-//  Created by Chen Mingliang on 25/04/26.
-//  illuspas@msn.com
-//  Copyright (c) 2025 NodeMedia. All rights reserved.
+//  Created by aakashdvd on 25/04/26.
+//  dwivediaakash2000@gmail.com
+//  Copyright (c) 2025 aakashdvd. All rights reserved.
 //
 const Context = require("../core/context.js");
 const BaseSession = require("../session/base_session");

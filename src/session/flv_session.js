@@ -1,8 +1,8 @@
 // @ts-check
 //
-//  Created by Chen Mingliang on 23/11/30.
-//  illuspas@msn.com
-//  Copyright (c) 2023 NodeMedia. All rights reserved.
+//  Created by aakashdvd on 23/11/30.
+//  dwivediaakash2000@gmail.com
+//  Copyright (c) 2025 aakashdvd. All rights reserved.
 //
 
 const express = require("express");

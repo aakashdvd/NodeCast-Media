@@ -126,7 +126,7 @@ Node-Media-Server 是一个高性能的 Node.js 实时流媒体服务器，支�
 graph TD
     A[bin/app.js 启动] --> B[加载配置文件]
     B --> C[安全处理: 替换默认密码]
-    C --> D[创建 NodeMediaServer]
+    C --> D[创建 aakashdvdServer]
     D --> E[初始化全局上下文]
     E --> F[启动各个服务器组件]
     F --> G[RTMP 服务器: 1935/1936端口]

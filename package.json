@@ -16,9 +16,9 @@
     "livestream",
     "server"
   ],
-  "author": "Chen Mingliang",
-  "homepage": "https://github.com/illuspas/Node-Media-Server",
-  "license": "Apache-2.0",
+  "author": "aakashdvd",
+  "homepage": "https://github.com/aakashdvd/Node-Media-Server",
+  "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.15.0",
     "eslint": "^9.15.0",

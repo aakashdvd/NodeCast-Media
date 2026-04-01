@@ -6,7 +6,7 @@
 sequenceDiagram
     participant User as 用户
     participant App as bin/app.js
-    participant NMS as NodeMediaServer
+    participant NMS as aakashdvdServer
     participant Context as Context
     participant RtmpServer as RTMP Server
     participant HttpServer as HTTP Server
@@ -17,7 +17,7 @@ sequenceDiagram
     App->>App: 加载配置文件 config.json
     App->>App: 生成随机管理员密码
     App->>App: 解析SSL证书路径
-    App->>+NMS: new NodeMediaServer(config)
+    App->>+NMS: new aakashdvdServer(config)
     NMS->>NMS: 初始化日志系统
     NMS->>+Context: 设置全局上下文
     Context->>Context: 创建 sessions Map
