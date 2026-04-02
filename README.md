@@ -1,4 +1,4 @@
-# Node-Media-Server
+# Node-Cast-Media
 
 A live streaming media server I built with Node.js. Supports RTMP, HTTP-FLV, and WebSocket-FLV protocols with low-latency playback.
 
